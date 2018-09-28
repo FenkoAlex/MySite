@@ -1,2 +1,1 @@
-# MySite
-Personal site
+# Sport timer
